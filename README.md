@@ -1,6 +1,7 @@
 # Trust-network-based-prediction-for-user-ratings-in-trip-advisor
-CSCI 59000 Advanced Mobility and Cloud Computing 
+CSCI 59000 Advanced Mobility and Cloud Computing <br>
 Spring 2018 - IUPUI 
+
 --------------------------------------------------
 Abstract
 
@@ -13,6 +14,7 @@ Keywords— E-Commerce; Trust Management; Ratings; Trip Advisor<br>
 Install
 
 Clone or download the project to your local computer, run<br>
+
 --------------------------------------------------
 
 Content:
